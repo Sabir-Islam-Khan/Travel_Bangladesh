@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Travel Bangladesh</string>
+    <string name="first_image">This is the first image</string>
+    <string name="coxbazarBtn">1</string>
+    <string name="bandarbansBtn">2</string>
+    <string name="mohasTest">3</string>
+    <string name="sundarbanBtn">4</string>
+    <string name="ahsanmanzilBtn">5</string>
+    <string name="MapBtn">6</string>
+</resources>
